@@ -4,7 +4,7 @@ A[i]*3, o elemento B[2] implicado pelo elemento A[2]*3 e assim por diante, até 
 B. */
 
 import java.util.Scanner;
-public class L06Ex002 {
+public class L6Ex002 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a[] = new int [8];
