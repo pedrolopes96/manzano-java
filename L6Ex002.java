@@ -20,7 +20,5 @@ public class L6Ex002 {
         System.out.println("B["+ (cont) + "] " + b[cont]);
 
         scanner.close();
-        
-     
     }
 }
