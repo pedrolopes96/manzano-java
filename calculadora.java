@@ -82,10 +82,5 @@ class calculadora {
     
     recebeMtz(mtzA,mtzB);
     multMtz(mtzA, mtzB, mtzX);
-    
-    
-    
-    
-      
   }
 }
